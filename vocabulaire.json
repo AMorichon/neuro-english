@@ -1,0 +1,861 @@
+{
+  "Pathologies": [
+    {
+      "en": "aneurysm",
+      "fr": "anévrisme",
+      "category": "Pathologies"
+    },
+    {
+      "en": "angina",
+      "fr": "angine de poitrine",
+      "category": "Pathologies"
+    },
+    {
+      "en": "atherosclerosis",
+      "fr": "athérosclérose",
+      "category": "Pathologies"
+    },
+    {
+      "en": "cervical pain",
+      "fr": "douleur cervicale",
+      "category": "Pathologies"
+    },
+    {
+      "en": "chest infection",
+      "fr": "infection thoracique / pulmonaire",
+      "category": "Pathologies"
+    },
+    {
+      "en": "chronic low back pain",
+      "fr": "lombalgie chronique",
+      "category": "Pathologies"
+    },
+    {
+      "en": "haemorrhage",
+      "fr": "hémorragie",
+      "category": "Pathologies"
+    },
+    {
+      "en": "head injury",
+      "fr": "traumatisme crânien",
+      "category": "Pathologies"
+    },
+    {
+      "en": "headache",
+      "fr": "Mal de tête",
+      "category": "Pathologies"
+    },
+    {
+      "en": "hemiplegia",
+      "fr": "hémiplégie",
+      "category": "Pathologies"
+    },
+    {
+      "en": "hypertension",
+      "fr": "hypertension",
+      "category": "Pathologies"
+    },
+    {
+      "en": "hypotonicity",
+      "fr": "hypotonicité",
+      "category": "Pathologies"
+    },
+    {
+      "en": "infarct",
+      "fr": "infarctus",
+      "category": "Pathologies"
+    },
+    {
+      "en": "left ventricular failure",
+      "fr": "insuffisance ventriculaire gauche",
+      "category": "Pathologies"
+    },
+    {
+      "en": "myocardial infarction",
+      "fr": "infarctus du myocarde",
+      "category": "Pathologies"
+    },
+    {
+      "en": "osteoporosis",
+      "fr": "ostéoporose",
+      "category": "Pathologies"
+    },
+    {
+      "en": "Parkinson's disease",
+      "fr": "Maladie de Parkinson",
+      "category": "Pathologies"
+    },
+    {
+      "en": "RA - rheumatoid arthritis",
+      "fr": "PR - Polyarthrite rhumatoïde",
+      "category": "Pathologies"
+    },
+    {
+      "en": "recovery",
+      "fr": "récupération",
+      "category": "Pathologies"
+    },
+    {
+      "en": "spinal cord injury",
+      "fr": "lésion de la moelle épinière",
+      "category": "Pathologies"
+    },
+    {
+      "en": "stroke",
+      "fr": "AVC",
+      "category": "Pathologies"
+    },
+    {
+      "en": "subluxation",
+      "fr": "subluxation",
+      "category": "Pathologies"
+    },
+    {
+      "en": "suctioning",
+      "fr": "aspiration (des sécrétions)",
+      "category": "Pathologies"
+    },
+    {
+      "en": "tone",
+      "fr": "tonus",
+      "category": "Pathologies"
+    },
+    {
+      "en": "bruising",
+      "fr": "ecchymoses",
+      "category": "Pathologies"
+    }
+  ],
+  "Déficiencies": [
+    {
+      "en": "acute stage",
+      "fr": "phase aiguë",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "atrophy",
+      "fr": "atrophie",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "deterioration",
+      "fr": "détérioration",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "dizziness",
+      "fr": "vertiges",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "festinating gait",
+      "fr": "marche festinante",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "freezing",
+      "fr": "blocage moteur",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "gait disturbance",
+      "fr": "troubles de la marche",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "heel-strike",
+      "fr": "attaque du talon",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "kyphotic",
+      "fr": "cyphotique",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "kyphotic posture",
+      "fr": "posture en cyphose",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "loss of strength",
+      "fr": "perte de force",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "lumbar lordosis",
+      "fr": "lordose lombaire",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "muscle weakness",
+      "fr": "faiblesse musculaire",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "poor sitting balance",
+      "fr": "mauvais équilibre assis",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "reduced basal expansion",
+      "fr": "diminution de l'expansion aux bases",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "reduced tone",
+      "fr": "diminution du tonus",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "relapsing",
+      "fr": "sujet.te aux rechutes / récidivant.e",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "retraction",
+      "fr": "rétraction",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "stiffness",
+      "fr": "raideur",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "subluxation",
+      "fr": "subluxation",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "swallowing",
+      "fr": "déglutition",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "tilt",
+      "fr": "inclinaison",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "tough pain",
+      "fr": "douleur intense",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "trembling",
+      "fr": "tremblement",
+      "category": "Déficiencies"
+    },
+    {
+      "en": "weakness",
+      "fr": "faiblesse",
+      "category": "Déficiencies"
+    }
+  ],
+  "Personal factors": [
+    {
+      "en": "alcohol consumption",
+      "fr": "consommation d'alcool",
+      "category": "Personal factors"
+    },
+    {
+      "en": "alcoholic",
+      "fr": "alcoolique",
+      "category": "Personal factors"
+    },
+    {
+      "en": "anxious",
+      "fr": "anxieux",
+      "category": "Personal factors"
+    },
+    {
+      "en": "divorced",
+      "fr": "divorcé",
+      "category": "Personal factors"
+    },
+    {
+      "en": "hill walking",
+      "fr": "marche en colline",
+      "category": "Personal factors"
+    },
+    {
+      "en": "lives alone",
+      "fr": "vit seul",
+      "category": "Personal factors"
+    },
+    {
+      "en": "male",
+      "fr": "homme",
+      "category": "Personal factors"
+    },
+    {
+      "en": "married",
+      "fr": "marié",
+      "category": "Personal factors"
+    },
+    {
+      "en": "mild asthmatic",
+      "fr": "asthmatique léger",
+      "category": "Personal factors"
+    },
+    {
+      "en": "non-smoker",
+      "fr": "non fumeur",
+      "category": "Personal factors"
+    },
+    {
+      "en": "obesity",
+      "fr": "obésité",
+      "category": "Personal factors"
+    },
+    {
+      "en": "retired",
+      "fr": "retraité.e",
+      "category": "Personal factors"
+    },
+    {
+      "en": "HGV (heavy goods vehicle) driver",
+      "fr": "routier (poids lourd)",
+      "category": "Personal factors"
+    },
+    {
+      "en": "plumber",
+      "fr": "plombier",
+      "category": "Personal factors"
+    },
+    {
+      "en": "right-handed",
+      "fr": "droitier",
+      "category": "Personal factors"
+    },
+    {
+      "en": "self-employed",
+      "fr": "à son compte",
+      "category": "Personal factors"
+    },
+    {
+      "en": "smoker",
+      "fr": "fumeur.euse",
+      "category": "Personal factors"
+    },
+    {
+      "en": "to cope",
+      "fr": "faire face (à quelque chose) / gérer",
+      "category": "Personal factors"
+    },
+    {
+      "en": "two children both live away",
+      "fr": "2 enfants qui vivent tous les deux loin",
+      "category": "Personal factors"
+    },
+    {
+      "en": "full-time housewife",
+      "fr": "femme au foyer à plein temps",
+      "category": "Personal factors"
+    },
+    {
+      "en": "pregnant",
+      "fr": "enceinte",
+      "category": "Personal factors"
+    }
+  ],
+  "Environmental factors": [
+    {
+      "en": "(powered) wheelchair",
+      "fr": "fauteuil roulant (électrique)",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "a stick",
+      "fr": "une canne de marche",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "a straw",
+      "fr": "une paille",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "alcohol consumption",
+      "fr": "consommation d'alcool",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "an armchair",
+      "fr": "une chaise avec accoudoirs",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "a brace",
+      "fr": "une attelle / un corset",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "crutches",
+      "fr": "des béquilles",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "the edge of the bed",
+      "fr": "le bord du lit",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "face mask",
+      "fr": "masque facial",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "facilities",
+      "fr": "équipements / installations / commodités",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "a helper",
+      "fr": "un aidant",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "IV in situ",
+      "fr": "voie / perfusion intraveineuse",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "level access shower",
+      "fr": "douche de plain-pied",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "occupational therapist",
+      "fr": "ergothérapeute",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "outdoors",
+      "fr": "à l'extérieur",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "a pressure-relieving cushion",
+      "fr": "un coussin anti-escarres",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "ramped access in situ",
+      "fr": "rampe d'accès sur place",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "rollator",
+      "fr": "déambulateur",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "specialist nurse",
+      "fr": "infirmier / infirmière spécialisé(e)",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "speech language therapist",
+      "fr": "orthophoniste",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "terraced house",
+      "fr": "maison mitoyenne",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "two hand rails",
+      "fr": "deux mains courantes",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "ward",
+      "fr": "service",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "wheelchair footrest",
+      "fr": "repose-pieds",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "wife",
+      "fr": "épouse",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "a pressure-relieving mattress",
+      "fr": "un matelas anti-escarres",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "a self-propelling wheelchair",
+      "fr": "un fauteuil roulant autopropulsé",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "home care staff",
+      "fr": "équipe de soins à domicile",
+      "category": "Environmental factors"
+    },
+    {
+      "en": "widow",
+      "fr": "veuve",
+      "category": "Environmental factors"
+    }
+  ],
+  "Activities  Participation": [
+    {
+      "en": "to achieve sitting",
+      "fr": "atteindre la position assise",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "BBS (Berg Balance Scale)",
+      "fr": "échelle de Berg",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "difficulties experienced when leaving the house",
+      "fr": "difficultés rencontrées lors des sorties du domicile",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "fatigue",
+      "fr": "fatigue",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "fear of falling",
+      "fr": "peur de tomber",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "functional tasks",
+      "fr": "tâches fonctionnelles",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "Hampered by Poor sitting balance",
+      "fr": "gêné.e par un mauvais équilibre assis",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "hypomobility",
+      "fr": "hypomobilité",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "a lack of …",
+      "fr": "un manque de …",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "no regular social activities",
+      "fr": "pas d'activités sociales régulières",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "observant",
+      "fr": "observant.e",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "sedentary",
+      "fr": "sédentaire",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "standing balance",
+      "fr": "équilibre debout",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "tired",
+      "fr": "fatigué.e",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "to work",
+      "fr": "travailler",
+      "category": "Activities  Participation"
+    },
+    {
+      "en": "twice weekly",
+      "fr": "2 fois par semaine",
+      "category": "Activities  Participation"
+    }
+  ],
+  "Medical informations": [
+    {
+      "en": "Accident and Emergency (A&E)",
+      "fr": "urgences",
+      "category": "Medical informations"
+    },
+    {
+      "en": "aspirin",
+      "fr": "aspirine",
+      "category": "Medical informations"
+    },
+    {
+      "en": "breaths per minute",
+      "fr": "fréquence respiratoire",
+      "category": "Medical informations"
+    },
+    {
+      "en": "bronchial breath sounds",
+      "fr": "bruits respiratoires bronchiques",
+      "category": "Medical informations"
+    },
+    {
+      "en": "caesarean Section (C-section)",
+      "fr": "incision de césarienne",
+      "category": "Medical informations"
+    },
+    {
+      "en": "catheterisation",
+      "fr": "sondage",
+      "category": "Medical informations"
+    },
+    {
+      "en": "chest infection",
+      "fr": "infection pulmonaire",
+      "category": "Medical informations"
+    },
+    {
+      "en": "compression socks",
+      "fr": "des chaussettes de contention",
+      "category": "Medical informations"
+    },
+    {
+      "en": "dynamic sitting balance",
+      "fr": "équilibre assis dynamique",
+      "category": "Medical informations"
+    },
+    {
+      "en": "ICU (intensive care unit)",
+      "fr": "unité de soins intensifs",
+      "category": "Medical informations"
+    },
+    {
+      "en": "intracranial pressure",
+      "fr": "pression intracrânienne",
+      "category": "Medical informations"
+    },
+    {
+      "en": "medical ward",
+      "fr": "unité médicale / service de médecine",
+      "category": "Medical informations"
+    },
+    {
+      "en": "medication",
+      "fr": "traitement (médicamenteux)",
+      "category": "Medical informations"
+    },
+    {
+      "en": "myocardial infarction",
+      "fr": "infarctus du myocarde",
+      "category": "Medical informations"
+    },
+    {
+      "en": "outpatient",
+      "fr": "patient externe / patient en ambulatoire",
+      "category": "Medical informations"
+    },
+    {
+      "en": "respiratory distress / respiratory weakness",
+      "fr": "détresse respiratoire / faiblesse respiratoire",
+      "category": "Medical informations"
+    },
+    {
+      "en": "right middle cerebral artery",
+      "fr": "artère cérébrale moyenne droite",
+      "category": "Medical informations"
+    },
+    {
+      "en": "RTA = Road Traffic Accident",
+      "fr": "AVP = Accident de la Voie Publique",
+      "category": "Medical informations"
+    },
+    {
+      "en": "static sitting balance",
+      "fr": "équilibre assis statique",
+      "category": "Medical informations"
+    },
+    {
+      "en": "stroke rehabilitation unit",
+      "fr": "service de rééducation des AVC",
+      "category": "Medical informations"
+    },
+    {
+      "en": "sub-acute phase",
+      "fr": "phase sub-aiguë",
+      "category": "Medical informations"
+    },
+    {
+      "en": "sudden intense headache",
+      "fr": "céphalée soudaine et intense",
+      "category": "Medical informations"
+    },
+    {
+      "en": "ventilated and sedated",
+      "fr": "ventilé et sédaté",
+      "category": "Medical informations"
+    },
+    {
+      "en": "ventricular failure",
+      "fr": "insuffisance ventriculaire",
+      "category": "Medical informations"
+    },
+    {
+      "en": "fast evolution",
+      "fr": "évolution rapide",
+      "category": "Medical informations"
+    },
+    {
+      "en": "3/7",
+      "fr": "3 jours",
+      "category": "Medical informations"
+    },
+    {
+      "en": "12/52",
+      "fr": "12 semaines",
+      "category": "Medical informations"
+    },
+    {
+      "en": "5/12",
+      "fr": "5 mois",
+      "category": "Medical informations"
+    }
+  ],
+  "Human body": [
+    {
+      "en": "abdominals",
+      "fr": "abdominaux",
+      "category": "Human body"
+    },
+    {
+      "en": "ankle",
+      "fr": "cheville",
+      "category": "Human body"
+    },
+    {
+      "en": "anterior pelvic tilt",
+      "fr": "antéversion du bassin",
+      "category": "Human body"
+    },
+    {
+      "en": "bladder",
+      "fr": "vessie",
+      "category": "Human body"
+    },
+    {
+      "en": "elbow flexors",
+      "fr": "fléchisseurs du coude",
+      "category": "Human body"
+    },
+    {
+      "en": "heart",
+      "fr": "cœur",
+      "category": "Human body"
+    },
+    {
+      "en": "hip",
+      "fr": "hanche",
+      "category": "Human body"
+    },
+    {
+      "en": "hip extensor",
+      "fr": "extenseur de hanche",
+      "category": "Human body"
+    },
+    {
+      "en": "levator scapulae",
+      "fr": "élévateur de la scapula",
+      "category": "Human body"
+    },
+    {
+      "en": "lower back",
+      "fr": "bas du dos",
+      "category": "Human body"
+    },
+    {
+      "en": "lower limb",
+      "fr": "membre inférieur",
+      "category": "Human body"
+    },
+    {
+      "en": "lungs",
+      "fr": "poumons",
+      "category": "Human body"
+    },
+    {
+      "en": "neck",
+      "fr": "cou",
+      "category": "Human body"
+    },
+    {
+      "en": "pelvis",
+      "fr": "bassin",
+      "category": "Human body"
+    },
+    {
+      "en": "right basal lobe",
+      "fr": "lobe basal droit",
+      "category": "Human body"
+    },
+    {
+      "en": "shoulders",
+      "fr": "épaules",
+      "category": "Human body"
+    },
+    {
+      "en": "shoulder girdle",
+      "fr": "ceinture scapulaire",
+      "category": "Human body"
+    },
+    {
+      "en": "trunk",
+      "fr": "tronc",
+      "category": "Human body"
+    },
+    {
+      "en": "upper limb",
+      "fr": "membre supérieur",
+      "category": "Human body"
+    },
+    {
+      "en": "upper trapezius",
+      "fr": "trapèze supérieur",
+      "category": "Human body"
+    },
+    {
+      "en": "wrist",
+      "fr": "poignet",
+      "category": "Human body"
+    },
+    {
+      "en": "anterior cerebral artery",
+      "fr": "artère cérébrale antérieure",
+      "category": "Human body"
+    },
+    {
+      "en": "spinal cord",
+      "fr": "moelle épinière",
+      "category": "Human body"
+    },
+    {
+      "en": "nipple line",
+      "fr": "ligne bi-mamelonnaire",
+      "category": "Human body"
+    },
+    {
+      "en": "rib cage",
+      "fr": "cage thoracique",
+      "category": "Human body"
+    }
+  ]
+}
